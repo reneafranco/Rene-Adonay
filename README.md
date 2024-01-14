@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Rene Adonay
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Software Developer (Backend Developer/Web Developer/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Hello, my name is Rene Franco. I hold an associate degree in computer science, and I've had a deep passion for technology since my early years. I've always been fascinated by the process of building things, which led me to pursue a career in the tech industry. My primary goal is to leverage my passion for technology to create innovative tools that can benefit society.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -56,7 +56,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=reneafranco&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
